@@ -83,7 +83,8 @@ Sprint Backlog:
 ### Sprint 2: (Game Mechanics)
 
 Goal: The goal of this sprint is to make a basic movements and combat gameplay for the characters.
-
+What was done Last Sprint:
+The main character models and a simple enviroment of the game is ready to beging animating it and make the gameplay for it.
 Sprint Backlog:
 | Epic      | User Story          | User Story Description                                                                                                                        | Sprint Point  Estimation |
 |-----------|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
