@@ -4,7 +4,7 @@
 It’s a 3rd person, 3D environmental action-adventure game based on both Marvel & DC comics. The game’s theory is to make a crossover between the mot popular characters in both universes against each other in a dramatic exciting way. 
 
 
-# Scrum Team
+## Scrum Team
 
 | Name            | Role                  | Expertise                            |
 |-----------------|-----------------------|--------------------------------------|
