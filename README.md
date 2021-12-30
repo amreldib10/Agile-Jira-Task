@@ -56,5 +56,6 @@ The order of the items was created in order of the priority and functionality. T
 ## Estimating How Many Story Points Can My Team Achieve Per Sprint
 
 The 1st sprint is estimated to achieve 45 story points.
-The 2nd sprint is estimated to achieve 60 story points.
+The 2nd sprint is estimated to achieve 60 story points. 
+These will be achievable for a 4-weeks sprint.
 
