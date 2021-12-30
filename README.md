@@ -39,6 +39,8 @@ The epic point estimaation will be 100.
 
 ## Orderign The Product Backlog Items And The Rationale
 
+The order of the items was created in order of the priority and functionality. The first step was making the game story, and then start making the shape of the game like the enviroments and characters, and finally animating and making the movement of the shapes created and testing it to see if the movement is correct.
+
 1. Game Script
 2. Game Logo
 3. Character Design
@@ -49,8 +51,6 @@ The epic point estimaation will be 100.
 8. Characteer Animation
 9. Developing Character Mechanics
 10. Mechanics Testing
-
-The order of the items was created in order of making the game story first, and then start making the shape of the game like the enviroments and characters, and finally animating and making the movement of the shapes created and testing it to see if the movement is correct.
 
 
 ## Estimating How Many Story Points Can My Team Achieve Per Sprint
