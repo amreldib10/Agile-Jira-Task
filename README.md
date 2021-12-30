@@ -29,3 +29,9 @@ It’s a 3rd person, 3D environmental action-adventure game based on both Marvel
 
 1- 1st Sprint: Modeling a simple game enviroment and a simple charachter.
 2- 2nd Sprint: Developing a simple game mechanics and animation for the character. 
+
+
+## The Story Point Convention
+
+I used the fibbonaci scale numbers in the convention, which are 1, 2, 3, 5, 8, 13, 21, 34, 55, 80, 100. 
+The epic point estimaation will be 100.
