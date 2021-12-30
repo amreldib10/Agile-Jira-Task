@@ -71,12 +71,12 @@ These will be achievable for a 4-weeks sprint.
 Goal: The goal of this sprint is to make a basic modeling for both the enviroment of the game and the main characters, and then finalizing them with textures and lighting.
 
 Sprint Backlog:
-| Epic            | User Story          | Description                                                                                           | Sprint Point  Estimation |
-|-----------------|---------------------|-------------------------------------------------------------------------------------------------------|--------------------------|
-| Tony Stark      | Game Script         | Writing a script for the game story and how the characters will develop through it.                   | 3                        |
-| Peter Parker    | Game Logo           | Creating a logo for the game and start  marketing the game with it in social media.                   | 3                        |
-| Bruce Wayne     | Character Design    | Sketching how the character will look like in  order to be easier in the modeling process.            | 8                        |
-| Natasha Romanov | Character Modeling  | Sculpting & Modeling the Character Model with  using its sketches.                                    | 13                       |
-| Kate Bishop     | Enviroment Building | Modeling a simple Environment for the game and  see if it fits the game's style.                      | 13                       |
-| Wilson Fisk     | Texture & Lighting  | Designing the textures that fits the style of the environment, and designing the character's texture. | 5                        |
+| User Story          | Description                                                                                           | Sprint Point  Estimation |
+|---------------------|-------------------------------------------------------------------------------------------------------|--------------------------|
+| Game Script         | Writing a script for the game story and how the characters will develop through it.                   | 3                        |
+| Game Logo           | Creating a logo for the game and start  marketing the game with it in social media.                   | 3                        |
+| Character Design    | Sketching how the character will look like in  order to be easier in the modeling process.            | 8                        |
+| Character Modeling  | Sculpting & Modeling the Character Model with  using its sketches.                                    | 13                       |
+| Enviroment Building | Modeling a simple Environment for the game and  see if it fits the game's style.                      | 13                       |
+| Texture & Lighting  | Designing the textures that fits the style of the environment, and designing the character's texture. | 5                        |
 
