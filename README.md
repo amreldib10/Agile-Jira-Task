@@ -55,9 +55,7 @@ The order of the items was created in order of the priority and functionality. T
 
 ## Estimating How Many Story Points Can My Team Achieve Per Sprint
 
-The 1st sprint is estimated to achieve 45 story points.
-The 2nd sprint is estimated to achieve 60 story points. 
-These will be achievable for a 4-weeks sprint.
+The estimation of the sprint is to be 60 sory points as it would be achievable for a 4-weeks sprint.
 
 
 ## Daily Scrum Document
@@ -71,12 +69,12 @@ These will be achievable for a 4-weeks sprint.
 Goal: The goal of this sprint is to make a basic modeling for both the enviroment of the game and the main characters, and then finalizing them with textures and lighting.
 
 Sprint Backlog:
-| User Story          | Description                                                                                           | Sprint Point  Estimation |
-|---------------------|-------------------------------------------------------------------------------------------------------|--------------------------|
-| Game Script         | Writing a script for the game story and how the characters will develop through it.                   | 3                        |
-| Game Logo           | Creating a logo for the game and start  marketing the game with it in social media.                   | 3                        |
-| Character Design    | Sketching how the character will look like in  order to be easier in the modeling process.            | 8                        |
-| Character Modeling  | Sculpting & Modeling the Character Model with  using its sketches.                                    | 13                       |
-| Enviroment Building | Modeling a simple Environment for the game and  see if it fits the game's style.                      | 13                       |
-| Texture & Lighting  | Designing the textures that fits the style of the environment, and designing the character's texture. | 5                        |
+| Epic          | User Story          | Description                                                                                                                           | Sprint Point  Estimation |
+|---------------|---------------------|---------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| Game Identity | Game Script         | As a user, I want the game story line to be exciting and fun.                                                                         | 3                        |
+| Game Identity | Game Logo           | As a user, the logo should be epic for a game like marvel and  dc together.                                                           | 3                        |
+| Modeling      | Character Design    | As a user, I would like the characters design to look like the ones in the comic books.                                               | 8                        |
+| Modeling      | Character Modeling  | As a user, I would like the characters Models to look like the ones in the comic books and movies.                                    | 13                       |
+| Modeling      | Enviroment Building | As a user, the game environment should be like real cities with  dark shades for the dc characters, and bright for marvel cities.     | 13                       |
+| Modeling      | Texture & Lighting  | As a user, the designs of the textures of the environment and the  character should be like the comic books and have a pop art style. | 5                        |
 
