@@ -51,3 +51,10 @@ The epic point estimaation will be 100.
 10. Mechanics Testing
 
 The order of the items was created in order of making the game story first, and then start making the shape of the game like the enviroments and characters, and finally animating and making the movement of the shapes created and testing it to see if the movement is correct.
+
+
+## Estimating How Many Story Points Can My Team Achieve Per Sprint
+
+The 1st sprint is estimated to achieve 45 story points.
+The 2nd sprint is estimated to achieve 60 story points.
+
