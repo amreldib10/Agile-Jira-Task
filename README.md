@@ -17,3 +17,15 @@ It’s a 3rd person, 3D environmental action-adventure game based on both Marvel
 | Wilson Fisk     | Game Developer        | C++, Blue Prints                     |
 | Stephen Strange | Game Tester           | Bugs Fixing, Game Mechanics Testing  |
 | Groot           | Marketer              | Media Advertising                    |
+
+
+## Possible Stackholders
+
+1. Marvel & Dc: Taking the liscence rights.
+2. Disney & Warner Bros: Funding the game.
+3. End Users: Trying the game in the beta version to test it.
+
+## Near Vision For The 1st 2 Sprints
+
+1- 1st Sprint: Modeling a simple game enviroment and a simple charachter.
+2- 2nd Sprint: Developing a simple game mechanics and animation for the character. 
