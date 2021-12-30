@@ -66,9 +66,9 @@ The estimation of the sprint is to be 60 sory points as it would be achievable f
 ## Sprint Documentation
 ### Sprint 1: (Modeling)
 
-Goal: The goal of this sprint is to make a basic modeling for both the enviroment of the game and the main characters, and then finalizing them with textures and lighting.
+#### Goal: The goal of this sprint is to make a basic modeling for both the enviroment of the game and the main characters, and then finalizing them with textures and lighting.
 
-Sprint Backlog:
+#### Sprint Backlog:
 | Epic          | User Story          | Description                                                                                                                           | Sprint Point  Estimation |
 |---------------|---------------------|---------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
 | Game Identity | Game Script         | As a user, I want the game story line to be exciting and fun.                                                                         | 3                        |
@@ -82,10 +82,9 @@ Sprint Backlog:
 
 ### Sprint 2: (Game Mechanics)
 
-Goal: The goal of this sprint is to make a basic movements and combat gameplay for the characters.
-What was done Last Sprint:
-The main character models and a simple enviroment of the game is ready to beging animating it and make the gameplay for it.
-Sprint Backlog:
+##### Goal: The goal of this sprint is to make a basic movements and combat gameplay for the characters.
+#### What was done Last Sprint: The main character models and a simple enviroment of the game is ready to beging animating it and make the gameplay for it.
+#### Sprint Backlog:
 | Epic      | User Story          | User Story Description                                                                                                                        | Sprint Point  Estimation |
 |-----------|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
 | Mechanics | Character Rigging   | As a user, the rigging of the characters would be realistic for  the movement.                                                                | 21                       |
