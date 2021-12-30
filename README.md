@@ -78,3 +78,16 @@ Sprint Backlog:
 | Modeling      | Enviroment Building | As a user, the game environment should be like real cities with  dark shades for the dc characters, and bright for marvel cities.     | 13                       |
 | Modeling      | Texture & Lighting  | As a user, the designs of the textures of the environment and the  character should be like the comic books and have a pop art style. | 5                        |
 
+
+
+### Sprint 2: (Game Mechanics)
+
+Goal: The goal of this sprint is to make a basic movements and combat gameplay for the characters.
+
+Sprint Backlog:
+| Epic      | User Story          | User Story Description                                                                                                                        | Sprint Point  Estimation |
+|-----------|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| Mechanics | Character Rigging   | As a user, the rigging of the characters would be realistic for  the movement.                                                                | 21                       |
+| Mechanics | Character Animation | As a user, the animation style and the combat should e like the  animated movies as its so exciting.                                          | 13                       |
+| Mechanics | Character Mechanics | As a user, the character animation style and body mechanics in terms  of code should be realistic and advanced using blueprints will be good. | 21                       |
+| Mechanics | Mechanics Testing   | As a user, I would like the characters Models to look like the ones in the comic books and movies.                                            | 5                        |
