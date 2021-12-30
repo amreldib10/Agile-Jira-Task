@@ -65,7 +65,18 @@ These will be achievable for a 4-weeks sprint.
 ![Screenshot 2021-12-30 185720](https://user-images.githubusercontent.com/72530029/147773038-ea3be0fb-88a8-443f-a311-1859c79a902d.png)
 
 
-### Sprint Documentation
-## Sprint 1:
+## Sprint Documentation
+### Sprint 1: (Modeling)
 
+Goal: The goal of this sprint is to make a basic modeling for both the enviroment of the game and the main characters, and then finalizing them with textures and lighting.
+
+Sprint Backlog:
+| Epic            | User Story          | Description                                                                                           | Sprint Point  Estimation |
+|-----------------|---------------------|-------------------------------------------------------------------------------------------------------|--------------------------|
+| Tony Stark      | Game Script         | Writing a script for the game story and how the characters will develop through it.                   | 3                        |
+| Peter Parker    | Game Logo           | Creating a logo for the game and start  marketing the game with it in social media.                   | 3                        |
+| Bruce Wayne     | Character Design    | Sketching how the character will look like in  order to be easier in the modeling process.            | 8                        |
+| Natasha Romanov | Character Modeling  | Sculpting & Modeling the Character Model with  using its sketches.                                    | 13                       |
+| Kate Bishop     | Enviroment Building | Modeling a simple Environment for the game and  see if it fits the game's style.                      | 13                       |
+| Wilson Fisk     | Texture & Lighting  | Designing the textures that fits the style of the environment, and designing the character's texture. | 5                        |
 
