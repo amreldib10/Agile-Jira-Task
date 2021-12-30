@@ -59,3 +59,5 @@ The 1st sprint is estimated to achieve 45 story points.
 The 2nd sprint is estimated to achieve 60 story points. 
 These will be achievable for a 4-weeks sprint.
 
+
+![Daily Srum Document](Media\marvel-universe-i31869.jpg)
