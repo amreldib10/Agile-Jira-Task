@@ -25,7 +25,7 @@ It’s a 3rd person, 3D environmental action-adventure game based on both Marvel
 2. Disney & Warner Bros: Funding the game.
 3. End Users: Trying the game in the beta version to test it.
 
-## Near Vision For The 1st 2 Sprints
+## Near Vision For The First 2 Sprints
 
 1- 1st Sprint: Modeling a simple game enviroment and a simple charachter.
 2- 2nd Sprint: Developing a simple game mechanics and animation for the character. 
