@@ -16,7 +16,7 @@ It’s a 3rd person, 3D environmental action-adventure game based on both Marvel
 | Kate Bishop     | Film Maker            | Script Writing, Camera Movements     |
 | Wilson Fisk     | Game Developer        | C++, Blue Prints                     |
 | Stephen Strange | Game Tester           | Bugs Fixing, Game Mechanics Testing  |
-| Groot           | Marketer              | Media Advertising                    |
+| Groot           | Marketing             | Media Advertising, Graghic Designer  |
 
 
 ## Possible Stackholders
