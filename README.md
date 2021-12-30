@@ -35,3 +35,19 @@ It’s a 3rd person, 3D environmental action-adventure game based on both Marvel
 
 I used the fibbonaci scale numbers in the convention, which are 1, 2, 3, 5, 8, 13, 21, 34, 55, 80, 100. 
 The epic point estimaation will be 100.
+
+
+## Orderign The Product Backlog Items And The Rationale
+
+1. Game Script
+2. Game Logo
+3. Character Design
+4. Charachter Modeling
+5. Enviroment Building
+6. Texture & Lighting
+7. Character Rigging
+8. Characteer Animation
+9. Developing Character Mechanics
+10. Mechanics Testing
+
+The order of the items was created in order of making the game story first, and then start making the shape of the game like the enviroments and characters, and finally animating and making the movement of the shapes created and testing it to see if the movement is correct.
