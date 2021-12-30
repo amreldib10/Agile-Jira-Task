@@ -60,4 +60,4 @@ The 2nd sprint is estimated to achieve 60 story points.
 These will be achievable for a 4-weeks sprint.
 
 
-![Daily Srum Document](Agile-Jira-Task/Screenshot 2021-12-30 185720.png)
+![Daily Srum Document](Screenshot 2021-12-30 185720.png)
